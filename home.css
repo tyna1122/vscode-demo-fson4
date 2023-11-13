@@ -1,0 +1,30 @@
+
+.text-over-image {
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: Arial;
+    text-align: center;    
+    color: aliceblue;
+}
+
+.header {   
+    margin-top: 20px;
+    background-color:midnightblue  
+}
+
+.body {
+    height:550px;
+}
+
+.navbar-nav {
+    margin-right: 0;
+}
+
+#custom-content-below-home {
+    margin: 50px;
+    text-align: center;
+    font-family: Papyrus;
+    color:crimson;
+
+}
